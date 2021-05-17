@@ -1,0 +1,21 @@
+
+ACCOUNTS = [
+  "GCMULUZKMV5RIBJ27JMBGTKGYWJQCJUXRMPGRWVQ2OVDSWS5FUCXHYJA"
+]
+  
+[[CURRENCIES]]
+code="FighterIndex"
+issuer="GAVFHR2DUMPWDOPZNCYWTUTV3OJGY2DX45ZOIAGF7SNIKOEDYK7AWPYH"
+display_decimals=7
+name="FighterIndex"
+desc="The FighterIndex token is a representation of globalization for the fight industry, where the moon will come face to face with the P4P Fighting Kings."
+conditions="Collect the best P4P fighters on the planet."
+image="https://fighterindex.com/images/FighterIndex.png"
+status="live"
+
+[[PRINCIPALS]]
+name="FighterIndex"
+email="FighterIndex@gmail.com"
+telegram="https://t.me/FighterIndex"
+twitter="https://twitter.com/FighterIndex"
+github="https://github.com/FighterIndex"
