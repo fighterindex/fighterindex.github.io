@@ -1,16 +1,17 @@
 
 ACCOUNTS = [
-  "GCMULUZKMV5RIBJ27JMBGTKGYWJQCJUXRMPGRWVQ2OVDSWS5FUCXHYJA"
+  "GBRPULFLBPFCDZS7LYRYS7IUTHZYH6PCRK2EL7MIJBQGRBKW5JVRE3IN",
+  "GDJ5G3LUE4SRSDAJ24FFAUK6ODNDPQX2YRJGBZGTZM5QQUG2KL3KXYTU",
+  "GBFDIJMM3Q3WGVYFMNVI3MAC5VJXT37CILVVDYFKKHFCXQP4NIWPYIMW"
 ]
   
 [[CURRENCIES]]
 code="FighterIndex"
-issuer="GAVFHR2DUMPWDOPZNCYWTUTV3OJGY2DX45ZOIAGF7SNIKOEDYK7AWPYH"
+issuer="GBRPULFLBPFCDZS7LYRYS7IUTHZYH6PCRK2EL7MIJBQGRBKW5JVRE3IN"
 display_decimals=7
 name="FighterIndex"
-desc="The FighterIndex token is a representation of globalization for the fight industry, where the moon will come face to face with the P4P Fighting Kings."
-conditions="Collect the best P4P fighters on the planet."
-image="https://fighterindex.com/images/FighterIndex.png"
+desc="The FighterIndex token is an upcoming Marketplace for the Fight Industry!"
+image="https://fighterindex.com/assets/img/FighterIndex.png"
 status="live"
 
 [[PRINCIPALS]]
